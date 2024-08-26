@@ -1,4 +1,4 @@
-# Excel-365-Beginner-Intermediate-and-Advanced
+# Excel-365-Beginner-to-Advanced
 This course consists of 3 modules viz.
 1. Excel 365 Beginner
 2. Excel 365 Intermediate
